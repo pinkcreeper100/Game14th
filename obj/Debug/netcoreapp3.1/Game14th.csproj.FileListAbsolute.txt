@@ -1,0 +1,13 @@
+/home/pinkcreeper100/RiderProjects/Game14th/bin/Debug/netcoreapp3.1/Game14th
+/home/pinkcreeper100/RiderProjects/Game14th/bin/Debug/netcoreapp3.1/Game14th.deps.json
+/home/pinkcreeper100/RiderProjects/Game14th/bin/Debug/netcoreapp3.1/Game14th.runtimeconfig.json
+/home/pinkcreeper100/RiderProjects/Game14th/bin/Debug/netcoreapp3.1/Game14th.runtimeconfig.dev.json
+/home/pinkcreeper100/RiderProjects/Game14th/bin/Debug/netcoreapp3.1/Game14th.dll
+/home/pinkcreeper100/RiderProjects/Game14th/bin/Debug/netcoreapp3.1/Game14th.pdb
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.csprojAssemblyReference.cache
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.AssemblyInfoInputs.cache
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.AssemblyInfo.cs
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.csproj.CoreCompileInputs.cache
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.dll
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.pdb
+/home/pinkcreeper100/RiderProjects/Game14th/obj/Debug/netcoreapp3.1/Game14th.genruntimeconfig.cache

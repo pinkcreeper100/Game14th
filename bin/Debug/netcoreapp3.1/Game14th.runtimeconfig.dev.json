@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/pinkcreeper100/.dotnet/store/|arch|/|tfm|",
+      "/home/pinkcreeper100/.nuget/packages"
+    ]
+  }
+}
